@@ -1,8 +1,0 @@
-{
-  "name": "Remix Remix SP nr 15 im. Alfreda Szklarskiego w Mysłowicach",
-  "description": "Oficjalny serwis informacyjny Szkoły Podstawowej nr 15 z Oddziałami Dwujęzycznymi im. Alfreda Szklarskiego w Mysłowicach.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
